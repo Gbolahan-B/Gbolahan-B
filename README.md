@@ -22,13 +22,13 @@ I'm a software engineer and student who loves coding, collaborating, and buildin
 
 ## 📈 GitHub Stats
 
-![Gbolahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GbolahanBantefa&show_icons=true&theme=radical)
+![Gbolahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gbolahan-B&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Contact Me
 
-- LinkedIn: [linkedin.com/in/gbolahan](https://linkedin.com/in/gbolahan)  
+- LinkedIn: [https://linkedin.com/in/gbolahan](https://www.linkedin.com/in/gbolahan-bantefa-20809b308?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpcPRKZWZRSWSxcATuB8JNg%3D%3D)
 - Email: gbolahanbantefa08@gmail.com 
 
 ---
