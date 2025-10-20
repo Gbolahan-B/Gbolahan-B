@@ -15,8 +15,8 @@ I'm a software engineer and student who loves coding, collaborating, and buildin
 ## 💻 Projects
 
 - [Automated Inventory System](https://github.com/GbolahanBantefa/inventory-system) - Web-based inventory management system for small businesses.  
-- [Rock-Paper-Scissors Game](https://github.com/GbolahanBantefa/rps-game) - Python OOP game for learning programming concepts.  
-- [Personal Portfolio](https://github.com/GbolahanBantefa/portfolio) - My portfolio website showcasing projects and skills.  
+- [University app](https://github.com/Gbolahan-B/Uni-app) - An eveyday use app for univerrsity student. 
+- [Personal Portfolio](https://github.com/Gbolahan-B/portfolio1) - My portfolio website showcasing projects and skills.  
 
 ---
 
