@@ -14,7 +14,7 @@ I'm a software engineer and student who loves coding, collaborating, and buildin
 
 ## 💻 Projects
 
-- [Automated Inventory System](https://github.com/GbolahanBantefa/inventory-system) - Web-based inventory management system for small businesses.  
+- [Automated Inventory System](https://github.com/Gbolahan-B/automated_inventory_control_system_v3)- Web-based inventory management system for small businesses.  
 - [University app](https://github.com/Gbolahan-B/Uni-app) - An eveyday use app for univerrsity student. 
 - [Personal Portfolio](https://github.com/Gbolahan-B/portfolio1) - My portfolio website showcasing projects and skills.  
 
