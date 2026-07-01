@@ -36,3 +36,4 @@ I'm a software engineer and student who loves coding, collaborating, and buildin
 ## ⚡ Fun Fact
 
 I enjoy learning coding by building projects and listening to music while coding! 🎵
+‎
